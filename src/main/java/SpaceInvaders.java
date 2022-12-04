@@ -5,7 +5,7 @@ import javax.swing.*;
 /**
  *
  * @author
-*/
+ */
 public class SpaceInvaders extends JFrame implements Commons {
 
 	/**
@@ -30,9 +30,9 @@ public class SpaceInvaders extends JFrame implements Commons {
 	 */
 	private static final String HELP_TOP_MESSAGE = "HELP";
 	private static final String HELP_MESSAGE = "Controles: "
-							+ "<br><br>Left Move: <br> Keyboard Left Arrow"
-							+ "<br><br>Right Move: <br>Keyboard Right Arrow"
-							+ "<br><br>Shoot: <br>Spacebar";
+			+ "<br><br>Left Move: <br> Keyboard Left Arrow"
+			+ "<br><br>Right Move: <br>Keyboard Right Arrow"
+			+ "<br><br>Shoot: <br>Spacebar";
 
 	JFrame frame = new JFrame("Space Invaders");
 	JFrame frame2 = new JFrame("Space Invaders");

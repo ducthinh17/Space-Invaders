@@ -71,7 +71,7 @@ public class Board extends JPanel implements Runnable, Commons {
 
 		for (int i = 0; i < 4; i++) {
 			for (int j = 0; j < 6; j++) {
-				Alien alien = new Alien(alienX + 18 * j, alienY + 18 * i);
+				Alien alien = new Alien(alienX + 50 * j, alienY + 50 * i);
 				alien.setImage(ii.getImage());
 				aliens.add(alien);
 			}
@@ -146,7 +146,7 @@ public class Board extends JPanel implements Runnable, Commons {
 
 		if (ingame) {
 
-			g.drawLine(0, GROUND, BOARD_WIDTH, GROUND);
+			g.drawLine(0, 550, BOARD_WIDTH, 550);
 			drawAliens(g);
 			drawPlayer(g);
 			drawShot(g);
@@ -263,7 +263,7 @@ public class Board extends JPanel implements Runnable, Commons {
 
 				int y = alien.getY();
 
-				if (y > GROUND - ALIEN_HEIGHT) {
+				if (y > 550 - ALIEN_HEIGHT) {
 					havewon = false;
 					ingame = false;
 					message = "Aliens are invading the galaxy!";
@@ -309,7 +309,7 @@ public class Board extends JPanel implements Runnable, Commons {
 
 			if (!b.isDestroyed()) {
 				b.setY(b.getY() + 1);
-				if (b.getY() >= GROUND - BOMB_HEIGHT) {
+				if (b.getY() >= 530 - BOMB_HEIGHT) {
 					b.setDestroyed(true);
 				}
 			}
