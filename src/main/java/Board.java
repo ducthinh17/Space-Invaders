@@ -34,8 +34,8 @@ public class Board extends JPanel implements Runnable, Commons {
 	private Won vunnet;
 
 	private int alienX = 150;
-	private int alienY = 25;
-	private int direction = -1;
+	private int alienY = 10;
+	private int direction = 1;
 	private int deaths = 0;
 
 	private boolean ingame = true;
@@ -69,9 +69,9 @@ public class Board extends JPanel implements Runnable, Commons {
 
 		ImageIcon ii = new ImageIcon(this.getClass().getResource(alienpix));
 
-		for (int i = 0; i < 4; i++) {
-			for (int j = 0; j < 6; j++) {
-				Alien alien = new Alien(alienX + 18 * j, alienY + 18 * i);
+		for (int i = 0; i < 5; i++) {
+			for (int j = 0; j < 7; j++) {
+				Alien alien = new Alien(alienX + 35 * j, alienY + 25 * i);
 				alien.setImage(ii.getImage());
 				aliens.add(alien);
 			}
@@ -220,7 +220,7 @@ public class Board extends JPanel implements Runnable, Commons {
 			}
 
 			int y = shot.getY();
-			y -= 8;
+			y -= 6;
 			if (y < 0)
 				shot.die();
 			else
@@ -241,7 +241,7 @@ public class Board extends JPanel implements Runnable, Commons {
 				while (i1.hasNext()) {
 					Alien a2 = (Alien) i1.next();
 					a2.setY(a2.getY() + GO_DOWN);
-				}
+				}	
 			}
 
 			if (x <= BORDER_LEFT && direction != 1) {

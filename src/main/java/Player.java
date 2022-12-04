@@ -4,8 +4,8 @@ import javax.swing.ImageIcon;
 
 public class Player extends Sprite implements Commons {
 
-	private final int START_Y = 400;
-	private final int START_X = 270;
+	private final int START_Y = 320;
+	private final int START_X = 320;
 
 	private final String player = "/img/craft.png";
 	private int width;
@@ -31,9 +31,13 @@ public class Player extends Sprite implements Commons {
 			x = 2;
 		if (x >= BOARD_WIDTH - 2 * width)
 			x = BOARD_WIDTH - 2 * width;
-		y+=dy;
-		if (y >= 450 - 2 * height)
-			y = 450 - 2 * height;
+		
+		y += dy;
+		if (y <= 2)
+			y = 2;
+
+		if (y >= 460 - 2 * height)
+			y = 460 - 2 * height;
 	}
 
 	//build speed
@@ -41,18 +45,18 @@ public class Player extends Sprite implements Commons {
 		int key = e.getKeyCode();
 
 		if (key == KeyEvent.VK_LEFT) {
-			dx = -15;
+			dx = -4;
 		}
 		if (key == KeyEvent.VK_DOWN) {
-			dy = 10;
+			dy = 4;
 		}
 
 		if (key == KeyEvent.VK_RIGHT) {
-			dx = 15;
+			dx = 4;
 		}
 		if (key == KeyEvent.VK_UP) {
 
-			dy = -10;
+			dy = -4;
 		}
 	}
 
