@@ -4,8 +4,8 @@ import javax.swing.ImageIcon;
 
 public class Player extends Sprite implements Commons {
 
-	private final int START_Y = 320;
-	private final int START_X = 320;
+	private final int START_Y = 600;
+	private final int START_X = 600;
 
 	private final String player = "/img/craft.png";
 	private int width;
@@ -36,8 +36,8 @@ public class Player extends Sprite implements Commons {
 		if (y <= 2)
 			y = 2;
 
-		if (y >= 460 - 2 * height)
-			y = 460 - 2 * height;
+		if (y >= GROUND +150 - 2 * height)
+			y = GROUND +150 - 2 * height;
 	}
 
 	//build speed

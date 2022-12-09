@@ -33,8 +33,8 @@ public class Board extends JPanel implements Runnable, Commons {
 	private GameOver gameend;
 	private Won vunnet;
 
-	private int alienX = 150;
-	private int alienY = 10;
+	private int alienX = 250;
+	private int alienY = 40;
 	private int direction = 1;
 	private int deaths = 0;
 
@@ -69,9 +69,9 @@ public class Board extends JPanel implements Runnable, Commons {
 
 		ImageIcon ii = new ImageIcon(this.getClass().getResource(alienpix));
 
-		for (int i = 0; i < 5; i++) {
-			for (int j = 0; j < 7; j++) {
-				Alien alien = new Alien(alienX + 35 * j, alienY + 25 * i);
+		for (int i = 0; i < 3; i++) {
+			for (int j = 0; j < 6; j++) {
+				Alien alien = new Alien(alienX + 50 * j, alienY + 40 * i);
 				alien.setImage(ii.getImage());
 				aliens.add(alien);
 			}
@@ -146,7 +146,7 @@ public class Board extends JPanel implements Runnable, Commons {
 
 		if (ingame) {
 
-			g.drawLine(0, GROUND, BOARD_WIDTH, GROUND);
+			g.drawLine(0, GROUND +100, BOARD_WIDTH, GROUND+100);
 			drawAliens(g);
 			drawPlayer(g);
 			drawShot(g);
@@ -309,7 +309,7 @@ public class Board extends JPanel implements Runnable, Commons {
 
 			if (!b.isDestroyed()) {
 				b.setY(b.getY() + 1);
-				if (b.getY() >= GROUND - BOMB_HEIGHT) {
+				if (b.getY() >= GROUND +75 - BOMB_HEIGHT) {
 					b.setDestroyed(true);
 				}
 			}
