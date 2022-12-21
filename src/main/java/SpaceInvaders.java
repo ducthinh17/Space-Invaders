@@ -121,7 +121,6 @@ public class SpaceInvaders extends JFrame implements Commons {
 			frame.setLocationRelativeTo(null);
 			frame.setVisible(true);
 			closeIntro();
-
 		}
 	}
 
