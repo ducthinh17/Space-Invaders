@@ -54,17 +54,17 @@ Here are the character classes :
 # Members:
 
 
-- 🔭 Duc Thinh built up the foundation [Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
+- 🔥  Duc Thinh built up the foundation [Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
 
-- 🌱 Ho Duong built up the game's operating structure and control a game[Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
+- 💻  Ho Duong built up the game's operating structure and control a game[Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
 
 - 👯 Thanh Binh built up awesome characters and character movement [Space Invaders](https://drive.google.com/drive/folders/1hrMVdN93PPVSPFdY2lL9iqEGDGTTqSih?fbclid=IwAR2EgnqrkEP-ZIvGy4MQxNLaJjPvZc7iN_xB2eU5k6UmcKG-y6a3PIQxecw)
 
-- 🤝 Xuan Vu built up the interface and logic alien [Space Invaders](https://drive.google.com/drive/folders/1RXnYjc-ag83Cl-mcMIOSnnT-prjgDq4Q?fbclid=IwAR2EgnqrkEP-ZIvGy4MQxNLaJjPvZc7iN_xB2eU5k6UmcKG-y6a3PIQxecw)
+- 👨‍💻  Xuan Vu built up the interface and logic alien [Space Invaders](https://drive.google.com/drive/folders/1RXnYjc-ag83Cl-mcMIOSnnT-prjgDq4Q?fbclid=IwAR2EgnqrkEP-ZIvGy4MQxNLaJjPvZc7iN_xB2eU5k6UmcKG-y6a3PIQxecw)
   
 # About us:
 
-- 👨‍💻 All of my projects are available at [https://github.com/ducthinh17/Space-Invaders](https://github.com/ducthinh17/Space-Invaders)
+- 🗣 All of my projects are available at [https://github.com/ducthinh17/Space-Invaders](https://github.com/ducthinh17/Space-Invaders)
 
 - 💬 Ask me about **Javascript, Java swing, JFrame,...**
 
