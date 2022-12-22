@@ -13,7 +13,10 @@
 <h3 align="center">This will be an stunning game if your childhood is rushed back! ✨✨</h3>
 
 <p align="center" > <img align="center" alt = "gif" src = "https://github.com/ducthinh17/Space-Invaders/blob/master/demo_2.gif" width="640" height="480" /></p>
+<p>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  </p>
+
 # Space-Invaders
 
 "Space-Invaders" is a familiar name among game lovers in 1987, with this improved version we have greatly improved the experience for players and also not forgetting to be user-friendly.
