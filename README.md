@@ -20,6 +20,14 @@ After running the game, the interface of the game will be set up. The opening is
 
 ## Rules
 The army will be arranged into a rectangle, and each turn the horizontal line will start to drop bullets. Players must dodge bullets and destroy enemy troops to win, otherwise they will fail to save the earth.
+
+### Controls
+| Action | Key      |
+|--------|----------|
+| ⤎ Move Left   | U+02190       |
+| Move Right ⤏  | D        |
+| Shoot 💥 | Spacebar |
+
 ### Animal class
 
 Here are the character classes :
