@@ -55,7 +55,7 @@ Here are the character classes :
 
 - ⚡ Fun fact **Humor and dynamism are always within us**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/sapceinvaders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sapceinvaders" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sapceinvaders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sapceinvaders" height="30" width="40" /></a>
