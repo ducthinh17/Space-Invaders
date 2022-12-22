@@ -1,11 +1,15 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/ducthinh17/Space-Invaders">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=538CF7&width=435&lines=Wellcome+to+Space-Invaders)](https://git.io/typing-svg" /> </a>
-  
-  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=538CF7&width=435&lines=Wellcome+to+Space-Invaders)](https://git.io/typing-svg" /> </a>
 </p>
-<h2 align="center">My group's name: God of War </h2>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    <a href="https://github.com/ducthinh17/Space-Invaders">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=538CF7&width=435&lines=Group's+name%3A+God+of+War)](https://git.io/typing-svg" /> </a>
+</p>
+
 <h3 align="center">This will be an stunning game if your childhood is rushed back! ✨✨</h3>
 
 <p><img align="center" alt = "gif" src = "https://github.com/ducthinh17/Space-Invaders/blob/master/demo_2.gif" width="640" height="480" /></p>
