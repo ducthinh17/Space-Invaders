@@ -24,15 +24,15 @@ The army will be arranged into a rectangle, and each turn the horizontal line wi
 
 Here are the animal classes :
 
-|character | life | Move | resistance | special attack |
+|Character | Life | Move | Resistance | Special attack |
 |---|---|---|---|---|
-|Graphic | 1 | free | free | 1 hit |
-|Aliens | 18 | stable | mid | 1 hit/alien |
+|Graphic | 1 | Free | Null | 1 hit |
+|Aliens | 18 | Stable | Mid | 1 hit/alien |
 
 
 
 
-
+# Members:
 
 
 - 🔭 Duc Thinh built up the foundation [Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
