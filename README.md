@@ -5,7 +5,7 @@
 
 <p><img align="right” alt = "gif" src = "https://github.com/ducthinh17/Space-Invaders/blob/master/demo_2.gif" width="640" height="480" /></p>
 
-# SpacePigFighter
+# Space-Invaders
 
 "Space-Invaders" is a familiar name among game lovers in 1987, with this improved version we have greatly improved the experience for players and also not forgetting to be user-friendly.
 
