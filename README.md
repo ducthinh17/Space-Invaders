@@ -5,6 +5,36 @@
 
 <p><img align="right” alt = "gif" src = "https://github.com/ducthinh17/Space-Invaders/blob/master/demo_2.gif" width="640" height="480" /></p>
 
+# SpacePigFighter
+
+"Space-Invaders" is a familiar name among game lovers in 1987, with this improved version we have greatly improved the experience for players and also not forgetting to be user-friendly.
+
+Story:
+When people ended the war and lived together in peace, an evil force came to threaten the earth. They are monsters from outer space with the desire to invade and possess the earth.
+Mission:
+Players must skillfully move to avoid obstacles and destroy the entire army of enemies to save the earth. If the player cannot destroy all enemies or is hit by enemy bullets, the alien army will win.
+
+## How to play ?
+
+After running the game, the interface of the game will be set up. The opening is "Menu" including "Help" & "Start". "Help" will help players understand how the game works, after that player can begin the impossible mission by clicking "Start". 
+
+## Rules
+The army will be arranged into a rectangle, and each turn the horizontal line will start to drop bullets. Players must dodge bullets and destroy enemy troops to win, otherwise they will fail to save the earth.
+### Animal class
+
+Here are the animal classes :
+
+|character | life | Move | resistance | special attack |
+|---|---|---|---|---|
+|Graphic | 1 | free | free | 1 hit |
+|Aliens | 18 | stable | mid | 1 hit/alien |
+
+
+
+
+
+
+
 - 🔭 Duc Thinh built up the foundation [Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
 
 - 🌱 Ho Duong built up the game's operating structure and control a game[Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
