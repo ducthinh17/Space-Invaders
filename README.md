@@ -15,6 +15,11 @@
 <p align="center" > <img align="center" alt = "gif" src = "https://github.com/ducthinh17/Space-Invaders/blob/master/demo_2.gif" width="640" height="480" /></p>
 <p>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> 
+  
+ <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+  
   </p>
 
 # Space-Invaders
