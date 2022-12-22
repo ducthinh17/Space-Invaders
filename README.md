@@ -22,7 +22,7 @@ After running the game, the interface of the game will be set up. The opening is
 The army will be arranged into a rectangle, and each turn the horizontal line will start to drop bullets. Players must dodge bullets and destroy enemy troops to win, otherwise they will fail to save the earth.
 ### Animal class
 
-Here are the animal classes :
+Here are the character classes :
 
 |Character | Life | Move | Resistance | Special attack |
 |---|---|---|---|---|
