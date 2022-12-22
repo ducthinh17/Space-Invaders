@@ -1,5 +1,5 @@
 
-<h1 align="center"> 👋 Wellcome to Space-Invaders 👋 </h1>
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=538CF7&width=435&lines=Wellcome+to+Space-Invaders............)](https://git.io/typing-svg) </h1>
 <h2 align="center">My group's name: God of War </h2>
 <h3 align="center">This will be an stunning game if your childhood is rushed back! ✨✨</h3>
 
