@@ -24,8 +24,10 @@ The army will be arranged into a rectangle, and each turn the horizontal line wi
 ### Controls
 | Action | Key      |
 |--------|----------|
-| ⤎ Move Left   | U+02190       |
-| Move Right ⤏  | D        |
+| ⇠ Move Left   | ⇠      |
+| Move Right ⇢  | ⇢      |
+| Move Up ⇡  | ⇡     |
+| Move Down ⇣  | ⇣      |
 | Shoot 💥 | Spacebar |
 
 ### Animal class
