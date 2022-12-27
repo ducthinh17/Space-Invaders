@@ -76,7 +76,7 @@ Here are the character classes :
 
 - 📫 How to cantact me **pldthinh.ityu@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ducthinh17/Space-Invaders](https://github.com/ducthinh17/Space-Invaders)
+- 📄 Know about old experiences [https://github.com/tatilattanzi/java-space-invaders](https://github.com/tatilattanzi/java-space-invaders)
 
 - ⚡ Fun fact **Humor and dynamism are always within us**
 
