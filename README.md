@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./img_readme/alien.jpg" alt="Banner" width="200" height="250">
-  <img src="./img_readme/banner.gif" alt="Banner" width="400" height="250">
+  <img src="./img_readme/banner.gif" alt="Banner" width="500" height="250">
   <img src="./img_readme/alien2.jpg" alt="Banner" width="200" height="250">
 </div>
 
