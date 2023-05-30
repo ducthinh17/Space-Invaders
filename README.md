@@ -74,13 +74,15 @@ Here are the character classes :
 # Members:
 
 
-- 🔥  **Duc Thinh** built up the foundation. [Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
 
-- 💻  **Ho Duong** built up the game's operating structure and control a game. [Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
+| Index |         Name          |     ID      |                  Email                  |                       Github                                |                              Position                              |
+| :---: | :-------------------: | :---------: |:---------------------------------------:| :---------------------------------------------------------: | :----------------------------------------------------------------: |
+|   1   |     Pham Le Duc Thinh | ITDSIU20085 |           pldthinh.ityu@gmail.com       |           [ducthinh17](https://github.com/ducthinh17)       |          Leader                                                    |
+|   2   |    Nguyen Thanh Binh  | ITDSIU20056 |          ntbinh.ityu@gmail.com          | [OliverRed1602](https://github.com/OliverRed1602)           |         Member                                                     |
+|   3   |    Huynh Xuan Vu    | ITDSIU20103 |        hxVu@gmail.com               |       [Vu0907](https://github.com/Vu0907)         |         Member                                                     |
+|   4   | Nguyen Tan Ho Duong | ITITIU20004 |      nthduong@gmail.com            |       [Nerfer1501](https://github.com/Nerfer1501)               |          Member                                                    |
 
-- 👯 **Thanh Binh** built up awesome characters and character movement. [Space Invaders](https://drive.google.com/drive/folders/1hrMVdN93PPVSPFdY2lL9iqEGDGTTqSih?fbclid=IwAR2EgnqrkEP-ZIvGy4MQxNLaJjPvZc7iN_xB2eU5k6UmcKG-y6a3PIQxecw)
 
-- 👨‍💻  **Xuan Vu** built up the interface and logic alien. [Space Invaders](https://drive.google.com/drive/folders/1RXnYjc-ag83Cl-mcMIOSnnT-prjgDq4Q?fbclid=IwAR2EgnqrkEP-ZIvGy4MQxNLaJjPvZc7iN_xB2eU5k6UmcKG-y6a3PIQxecw)
   
 # About us:
 
