@@ -108,8 +108,8 @@ Here are the character classes :
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></p>
 
 <div align="center">
-  <img src="./img_readme/left_img.jpg" alt="Banner" width="200" height="450">
-  <img src="./img_readme/space.gif" alt="Banner" width="400" height="250">
-  <img src="./img_readme/right_img.jpg" alt="Banner" width="200" height="450">
+  <img src="./img_readme/left_img.jpg" alt="Banner" width="200" height="400">
+  <img src="./img_readme/space.gif" alt="Banner" width="400" height="400">
+  <img src="./img_readme/right_img.jpg" alt="Banner" width="200" height="400">
 </div>
 
