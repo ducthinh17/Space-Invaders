@@ -20,7 +20,7 @@
 
 <div align="center">
   
-  <img src="./img_readme/main2.jpg" alt="Banner" width="300" height="300">
+  <img src="./img_readme/main.png" alt="main" width="300" height="300">
   
 </div>
 
