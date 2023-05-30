@@ -113,7 +113,7 @@ Here are the character classes :
   <img src="./img_readme/right_img.jpg" alt="end2" width="200" height="400">
 </div>
 <div align="center">
-  <img src="./img_readme/end-2.jpg" alt="Banner2" width="800" height="200">
+  <img src="./img_readme/end-2.jpg" alt="Banner2" width="810" height="200">
  
 </div>
 
