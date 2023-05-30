@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="./img_readme/alien.jpg" alt="Banner" width="200" height="250">
+  <img src="./img_readme/banner.gif" alt="Banner" width="400" height="250">
+  <img src="./img_readme/alien2.jpg" alt="Banner" width="200" height="250">
+</div>
+
+
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/ducthinh17/Space-Invaders">
